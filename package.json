@@ -1,0 +1,25 @@
+{
+  "name": "karatejs",
+  "version": "1.0.0",
+  "description": "Karate Framework for javascript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node karate.js karate/my_first_test.feature"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomashGombosh/karatejs.git"
+  },
+  "keywords": [
+    "javascript",
+    "karate"
+  ],
+  "author": "Tomash Gombosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomashGombosh/karatejs/issues"
+  },
+  "homepage": "https://github.com/TomashGombosh/karatejs#readme"
+}
